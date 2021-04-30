@@ -1,0 +1,19 @@
+@media (prefers-color-scheme: dark) {
+	body {
+	  background-color: $color-primario;
+	  color: $color-claro;
+    }
+    // .nav--header ul a {
+    //     color: $color-claro;
+    // }
+    .sidebar--listado h3{
+      color: $color-claro;
+    }
+	.sidebar--listado a{
+		color: $color-claro;
+    }
+    .sidebar--listado__numero {
+    color: $color-claro;   
+    opacity: .5;
+ }
+  }
